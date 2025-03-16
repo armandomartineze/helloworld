@@ -11,7 +11,7 @@
 	<groupId>com.oracle</groupId>
 	<artifactId>helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packing>jar</packing>
+	<packaging>jar</packaging>
 	<name>helloworld</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
